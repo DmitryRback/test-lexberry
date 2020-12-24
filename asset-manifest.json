@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-lexberry/static/css/main.2d8efebb.chunk.css",
+    "main.js": "/test-lexberry/static/js/main.fcdf823d.chunk.js",
+    "main.js.map": "/test-lexberry/static/js/main.fcdf823d.chunk.js.map",
+    "runtime-main.js": "/test-lexberry/static/js/runtime-main.020a2695.js",
+    "runtime-main.js.map": "/test-lexberry/static/js/runtime-main.020a2695.js.map",
+    "static/js/2.59b25fee.chunk.js": "/test-lexberry/static/js/2.59b25fee.chunk.js",
+    "static/js/2.59b25fee.chunk.js.map": "/test-lexberry/static/js/2.59b25fee.chunk.js.map",
+    "static/js/3.3cac2ecf.chunk.js": "/test-lexberry/static/js/3.3cac2ecf.chunk.js",
+    "static/js/3.3cac2ecf.chunk.js.map": "/test-lexberry/static/js/3.3cac2ecf.chunk.js.map",
+    "index.html": "/test-lexberry/index.html",
+    "static/css/main.2d8efebb.chunk.css.map": "/test-lexberry/static/css/main.2d8efebb.chunk.css.map",
+    "static/js/2.59b25fee.chunk.js.LICENSE.txt": "/test-lexberry/static/js/2.59b25fee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.020a2695.js",
+    "static/js/2.59b25fee.chunk.js",
+    "static/css/main.2d8efebb.chunk.css",
+    "static/js/main.fcdf823d.chunk.js"
+  ]
+}
